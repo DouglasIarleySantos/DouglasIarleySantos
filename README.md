@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Douglas Iarley 👋
+
+Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, sou Aluno na instituição Senai 
+
+## Sobre Mim
+
+- 🌱 Atualmente estou aprendendo **CRUD** e **Programação para Aplicativo**.
+- 👯 Estou procurando colaborar em projetos open-source e na criação de projetos próprios.
+- 💬 Pergunte-me sobre **Javascript**, e **Python**.
+- 📫 Como me encontrar: [douglasiarleydev@gmail.com](mailto:douglasiarleydev@gmail.com)
+
+## Habilidades
+
+- **Linguagens de Programação:** Javascript, Python
+- **Frameworks:** Express.js, Bootsrtap
+- **Ferramentas:** Git, NodeJs
 
 <!--
-**DouglasIarleySantos/DouglasIarleySantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projetos em Destaque
 
-Here are some ideas to get you started:
+### [Projeto 1](https://github.com/seu-usuario/projeto1)
+Descrição breve do projeto 1.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### [Projeto 2](https://github.com/seu-usuario/projeto2)
+Descrição breve do projeto 2.
 -->
+
+## Entre em Contato
+
+- [LinkedIn](https://www.linkedin.com/in/getulio-vagner-117341186/)
+
